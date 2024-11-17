@@ -1,3 +1,3 @@
-NextJS, Docker, Terraform, and Alibaba Cloud
+NextJS, Docker, Terraform, and AWS
 
 ## Getting Started
